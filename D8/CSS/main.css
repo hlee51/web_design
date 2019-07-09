@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color:mediumturquoise;
+}
+
+#main-container {
+    width: 600px;
+    margin: 100px auto;
+}
+
+h1 {
+    font-family: 'Arvo', serif;
+    font-size: 72px;
+    font-weight: 400;
+    color: whitesmoke;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size: 32px;
+    font-weight: 100;
+    color: whitesmoke;
+}
+

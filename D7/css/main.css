@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+#board {
+    width: 800px;
+}
+
+.piece1,
+.piece2,
+.piece3,
+.piece4 {
+    width: 100px;
+    height: 100px;
+    float: left;
+    opacity: .9;
+    
+}
+
+.piece1, .piece3 {
+    background-color: floralwhite;
+    transform: rotate(35deg);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+.piece2, .piece4 {
+    background-color:salmon;
+    transform: rotate(25deg);
+    width: 50px;
+    height: 50px;
+    border-radius: 20%; 

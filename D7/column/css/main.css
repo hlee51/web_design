@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+
+div{
+    float: left;
+    background-color: red;
+    border: 4px solid white;
+}
+
+#hf{
+    width: 600px;
+}
+
+.header{
+    width: 592px;
+    height: 125px;
+}
+
+.space {
+    width: 592px;
+    height: 25px;
+}
+
+.one,.two,.three {
+    width: 33.33%;
+    height:500px;
+    
+}

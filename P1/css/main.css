@@ -1,0 +1,147 @@
+body {
+    margin: 100px 100px 0 100px;
+}
+#main{
+    width: auto;
+    height: auto;
+    float: center;
+}
+
+.intro{
+    margin: 100px 300px;
+    color: #565656;
+    font-family: 'Lusitana', serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 35px;
+}
+.block{
+    margin: 50px 300px;
+}
+
+.block2{
+    margin: 0px 300px;
+    color: #565656;
+}
+
+.block3{
+    margin: 50px 300px;
+    color: #565656;
+}
+
+.break{
+    background-color: white;
+    margin: 50px 0;
+}
+
+.banner{
+    background-color: #bfd8d2;
+    opacity: 0.95;
+}
+
+.powder{
+    background-color: #bfd8d2;
+    color: #565656;
+}
+
+.peach{
+    background-color: #fedcd2;
+}
+
+.lemon{
+    background-color: #f7c331;
+    opacity: .95;
+    color: white;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+    color: #df744a;
+    text-align: center; 
+    font-size: 85px;
+    font-weight: 900;
+    margin-top: 300px;
+    margin-bottom: 25px;
+
+}
+
+h2{
+   font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    font-size:30px;
+    font-weight: bold 700;
+    margin-bottom: 25px;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size:40px;
+    font-weight: 300px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    color: #df744a;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size:22px;
+    font-weight: bold 700;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #df744a;
+    text-decoration: underline;
+}
+
+h5{
+    font-family: 'Raleway', sans-serif;
+    font-size:17px;
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+}
+
+h6{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size:22px;
+    font-weight: bold 700;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: white;
+    letter-spacing: 1.5px;
+    text-decoration: underline;
+    line-height: 2px;
+}
+
+
+
+#main{
+    margin: 0px 95px 0px 95px;
+}
+
+p{
+font-family: 'Lusitana', serif;
+font-size: 18px;
+}
+
+.image{
+    margin-bottom: 50px;
+}
+.image2{
+    margin-bottom: 80px;
+}
+img {
+    width: 100%;
+    float: center; 
+}
+
+.image3 {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
