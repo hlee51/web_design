@@ -1,0 +1,51 @@
+body{
+    margin: 25px;
+    padding: 0;
+    background-color: #caebf2;
+}
+
+#center{
+    margin: 25px;
+    width: 1680px;
+    height: auto;
+    float: left;
+}
+
+
+.cloud{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: white;
+    float: left;
+    margin: 50px;
+    
+}
+
+.cloud:before
+{
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: 23px;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+    
+}
+
+.cloud:after
+{
+    content: '';
+    position: absolute;
+    top: -38px;
+    right: 20px;
+    background-color: white;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    float: left;
+}

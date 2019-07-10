@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+    margin: 300px 715px;
+}
+
+#main-container{
+    width: 450px;
+    height: 140px;
+}
+
+.heart1,.heart2,.heart3{
+    width: 150px;
+    height: 140px;
+}
+
+.white, .red, .black{
+    width: 10px;
+    height: 10px;
+    float: left;
+}
+
+.white{
+    background-color: white;
+}
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}

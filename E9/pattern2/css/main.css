@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: salmon;
+}
+
+
+#main-container{
+    width: 900px;
+    height: 300px;
+    margin: 300px auto;
+    
+    
+}
+
+.egg{
+    display: block;
+    width: 126px;
+    height: 180px;
+    background-color: white;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    float: left;
+    margin: 20px;
+}
+
+.yolk{
+    display: block;
+    width: 72px;
+    height: 99px;
+    background-color: #f9cf00;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    float: left;
+    margin: 50px 30px -50px 30px;
+}
