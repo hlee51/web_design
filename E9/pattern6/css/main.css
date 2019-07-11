@@ -1,0 +1,38 @@
+body{
+    margin: 50px;
+    background-color: #f8eee7;
+}
+
+#main{
+    width: 1400px;
+    height: auto;
+}
+
+.one, .two, .three{
+    float: left;
+    opacity: .75;
+    margin: 20px;
+}
+
+.one{
+    width: 300px;
+    height: 150px;
+    background-color: #f4dec8;
+    border-radius: 100px/50px;
+    transform: rotate(30deg)
+}
+
+.two{
+    width: 300px;
+    height: 150px;
+    background-color: #331a00;
+    border-radius: 100px/50px;
+    transform: rotate(295deg)
+}
+
+.three{
+    width: 300px;
+    height: 150px;
+    background-color: #804200;
+    border-radius: 100px/50px;
+}
