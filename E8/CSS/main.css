@@ -2,27 +2,34 @@ html{
     font-size; 16px;
 }
 body{
-    
+    background-color: #f8eee7;
 }
 div{
     width:40vw;
     margin: 100px auto;
 }
 h1{
-    font-size: 6em;
+    font-family: 'Rock Salt', cursive;
+    font-size: 4em;
 }
+
 h2{
-    font-size: 4.5em;
-}
-h3{
+    font-family: 'Rock Salt', cursive;
     font-size: 3em;
 }
+h3{
+    font-family: 'Rock Salt', cursive;
+    font-size: 2em;
+}
 h4{
+    font-family: 'Rock Salt', cursive;
     font-size: 1.5em;
 }
 p{
+    font-family: 'Open Sans', sans-serif;
     font-size: 1em;
 }
 .intro {
-    font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
 }
